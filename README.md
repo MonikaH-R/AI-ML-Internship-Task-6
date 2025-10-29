@@ -78,7 +78,7 @@ Saved plots include:
 - `multiclass_roc.png` – ROC curves for each class
 
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 ###  Install Dependencies
 
